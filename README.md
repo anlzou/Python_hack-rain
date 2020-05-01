@@ -5,6 +5,7 @@
 > ### 字母雨 Alphabet rain
 
 > ### 图形雨 Graphic rain
+not finish.
 # run
 进入项目根目录存在的requirements.txt文件
 - pip install -r requirements.txt
